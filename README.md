@@ -1,4 +1,4 @@
-# mbu_225a
+# melissa bu
 
 # This is my repo for BMS225A - Data Science. My work is organized as follows:
 
