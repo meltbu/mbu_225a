@@ -1,2 +1,0 @@
-protected_health_information
-data/protected_health_information.txt
